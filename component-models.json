@@ -190,5 +190,65 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "teaser",
+    "fields": [
+      {
+        "component": "reference",
+        "label": "Image",
+        "name": "image",
+        "description": "please select an image",
+        "valueType": "string"
+      },
+      {
+        "componet": "text",
+        "label": "Alt text",
+        "name": "imageAlt",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "label": "Pretitle",
+        "name": "pretitle",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "label": "Title",
+        "name": "title",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "label": "Heading Type",
+        "name": "headingType",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "label": "Description",
+        "name": "description",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "label": "Primary CTA text",
+        "name": "primaryctaText",
+        "valueType": "string"
+      },
+      {
+        "component": "aem-content",
+        "label": "Primary CTA ",
+        "name": "primarycta",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "label": "Open in new Page ?",
+        "name": "openInNewPage",
+        "valueType": "string"
+      }
+    ]
   }
 ]
