@@ -202,7 +202,7 @@
         "valueType": "string"
       },
       {
-        "componet": "text",
+        "component": "text",
         "label": "Alt text",
         "name": "imageAlt",
         "valueType": "string"
